@@ -1,16 +1,19 @@
-## Hi there 👋
+# crownshield-sec | Ben
 
-<!--
-**crownshield-sec/crownshield-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate (M.S., Dec 2025) building hands-on SOC and incident response capability through lab-based investigations and documented analyst workflows.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Alert triage, investigation, and escalation documentation
+- Log analysis and correlation (Splunk)
+- Packet analysis and timeline development (Wireshark)
+- Case management workflows (TheHive)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+- SOC Portfolio: https://github.com/crownshield-sec/soc-portfolio
+
+## Labs & Practice
+- TryHackMe, Hack The Box, RangeForce, Blue Team Labs Online
+
+## Tools (Lab)
+- Splunk, Wireshark, TheHive
+
